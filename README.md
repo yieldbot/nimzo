@@ -1,2 +1,3 @@
-# nimzo
-Sensu Statsd handler
+# Nimzo
+
+Statsd handler
